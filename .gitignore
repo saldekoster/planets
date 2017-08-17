@@ -1,2 +1,1 @@
-*.dat
-results/
+results/data/*.dat  # ignores all .dat files in results/data... or not
